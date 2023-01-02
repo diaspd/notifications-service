@@ -2,6 +2,11 @@
   Notifications Service
 </h1>
 
+<p align="center">
+  <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <br></br>
 
 <div align="center">
@@ -9,14 +14,6 @@
 </div> 
 
 <br></br>
-
-<p align="center">
-  <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-</br>
-
 
 ## 🚀 Getting started
 
