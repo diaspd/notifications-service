@@ -78,7 +78,7 @@ This project was developed with the following technologies:
 </b>
 
 ## 📄 Project
-💰 
+💰 Project to create and show notifications with back end.
 
 <br></br>
 
