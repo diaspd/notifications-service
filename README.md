@@ -66,6 +66,11 @@ $ npm run dev
 ```
 
 <h2>Methods: </h2>
+<h3> 
+  Post: to create notifications: http://localhost:3000/notifications </br>
+  Get: to count: http://localhost: http://localhost:3000/notifications/count/from/{id}
+  Get notificaion: http://localhost:3000/notifications/from/{id}
+</h3>
 
 <br></br>
 
