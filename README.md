@@ -57,11 +57,11 @@ $ npm run test:cov
 ```
 
 <h2>Methods: </h2>
-<h3> 
+<p> 
   Post: to create notifications: http://localhost:3000/notifications </br>
   Get: to count: http://localhost: http://localhost:3000/notifications/count/from/{id} </br>
   Get notificaion: http://localhost:3000/notifications/from/{id}
-</h3>
+</p>
 
 <br></br>
 
