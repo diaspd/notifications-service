@@ -56,15 +56,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-Follow the steps below:
-```bash
-# Install the dependencies
-$ npm i
-
-# Start the project
-$ npm run dev
-```
-
 <h2>Methods: </h2>
 <h3> 
   Post: to create notifications: http://localhost:3000/notifications </br>
