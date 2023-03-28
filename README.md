@@ -72,6 +72,8 @@ This project was developed with the following technologies:
 - NodeJs
 </b>
 
+</br>
+
 ## 📄 Project
 💰 Project to create and show notifications with back end.
 
