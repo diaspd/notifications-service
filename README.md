@@ -10,7 +10,7 @@
 <br></br>
 
 <div align="center">
-  <img alt="" title="" src="img.png" />
+  <img alt="project image" title="project image" src="img.png" />
 </div> 
 
 <br></br>
