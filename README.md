@@ -7,7 +7,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br></br>
+---
 
 <div align="center">
   <img alt="project image" title="project image" src="img.png" />
