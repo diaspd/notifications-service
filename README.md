@@ -71,6 +71,7 @@ This project was developed with the following technologies:
 - NestJs
 - NodeJs
 - Fastify
+- Prisma
 </b>
 
 </br>
