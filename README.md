@@ -70,7 +70,6 @@ This project was developed with the following technologies:
 <b>
 - NestJs
 - NodeJs
-- Fastify
 - Prisma
 </b>
 
