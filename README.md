@@ -56,7 +56,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-<h2>Methods: </h2>
+## 🌐 Methods: 
 
  POST to create notifications: `http://localhost:3000/notifications` </br>
  GET to count: `http://localhost:3000/notifications/count/from/{id}` </br>
